@@ -24,3 +24,36 @@ Notes is a project developed based on the MVC architecture. Notes is a program i
 <p align="center">
 <img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1955.PNG" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1959.PNG" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1957.PNG" width="230" title="GitHub Profiles">
 </p>
+
+
+# [Weather clone](https://github.com/vladyslav-ios/Notes)
+
+<p align="left"> <a href="https://github.com/vladyslav-lialkin/Weather"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
+</p>
+
+<div style="width: 1000px; height 600px;"><img src="https://github.com/vladyslav-lialkin/Weather/assets/64835724/2bf3c114-e1ae-4956-a5ba-c04629d591fe" width="30%" height="30%" align="right"></div>
+
+Weather is a weather app that is identical to the one in iOS 17, built with SwiftUI! Get the current weather from London!
+The application includes:
+
+User Interface:
+- SwiftUI
+- Stacks (HStack, VStack, ZStack)
+- ScrollView
+- Images, Label, and Text
+- Shape, Rectangle, and Circle
+- Gradients
+- ProgressView
+
+Map Integration:
+- MapKit
+  
+Layout and Geometry:
+- GeometryReader
+  
+Data Handling:
+- Parsing JSON using Codable
+- Error Handling
+  
+Architecture:
+- MVVM (Model-View-ViewModel)
