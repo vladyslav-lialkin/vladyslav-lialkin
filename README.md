@@ -1,6 +1,6 @@
 <a href="https://www.cvwizard.com/d/32EYU1MmtkL1XE7C5V2MqT/view" download><img src="https://img.shields.io/badge/Resume-ff69b4.svg?style=for-the-badge&logo=codeigniter&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="mailto:vlad.lyalkin@icloud.com"><img src="https://img.shields.io/badge/Email-Vladyslav-8056d5.svg?style=for-the-badge&logo=minutemailer&logoColor=white"></a>&nbsp;&nbsp;&nbsp;<a href="https://www.linkedin.com/in/vladyslav-lialkin-999071250/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-Vladyslav%20Lialkin-brightgreen?style=for-the-badge&logo=linkedin&logoColor=white" ></a>
 
-# [Weather clone](https://github.com/vladyslav-ios/Notes)
+# [Weather clone](https://github.com/vladyslav-lialkin/Weather)
 
 <p align="left"> <a href="https://github.com/vladyslav-lialkin/Weather"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
