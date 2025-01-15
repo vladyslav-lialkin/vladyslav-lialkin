@@ -23,7 +23,7 @@ The app includes the following features:
 - Customize notifications
 
 <p align="center">
-<img src="https://github.com/user-attachments/assets/30a40f34-4fb1-4808-ac7f-3ce8df84b4b4" width="930" title="DMV Test Prep">
+<img src="https://github.com/user-attachments/assets/9e490e55-93b0-44d3-80d0-3e04f373cc53" width="930" title="DMV Test Prep">
 
 </p>
 
@@ -31,8 +31,6 @@ The app includes the following features:
 
 <p align="left"> <a href="https://github.com/vladyslav-lialkin/Weather"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
-
-<div style="width: 1000px; height 600px;"><img src="https://github.com/vladyslav-lialkin/Weather/assets/64835724/2bf3c114-e1ae-4956-a5ba-c04629d591fe" width="30%" height="30%" align="right"></div>
 
 Weather is a weather app that is identical to the one in iOS 17, built with SwiftUI! Get the current weather from London!
 The application includes:
@@ -59,7 +57,12 @@ Data Handling:
 Architecture:
 - MVVM (Model-View-ViewModel)
 
-# [Apple Notes clone](https://github.com/vladyslav-ios/Notes)
+<p align="center">
+<img src="https://github.com/user-attachments/assets/f675e76e-d5b4-46f2-b841-f4551c038dfc" width="930" title="DMV Test Prep">
+
+</p>
+
+# [Notes clone](https://github.com/vladyslav-ios/Notes)
 <p align="left"> <a href="https://github.com/vladyslav-ios/Notes"> <img src="https://user-images.githubusercontent.com/33416429/92813512-27f0bb80-f376-11ea-8562-ee2b3e416aec.png" width="150" ></a>
 </p>
 Notes is a project developed based on the MVC architecture. Notes is a program in which users can create notes and describe their lives, dreams, and travels, save and browse them on the main screen, and manage them.
@@ -77,9 +80,6 @@ Notes is a project developed based on the MVC architecture. Notes is a program i
 * Highlights and filters matching text in notes during searches.
 
 <p align="center">
-<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1954.PNG" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1958.PNG" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1956.PNG" width="230" title="GitHub Profiles">
-</p>
+<img src="https://github.com/user-attachments/assets/0a9408ea-425b-4157-9a06-f2216885ae19" width="930" title="DMV Test Prep">
 
-<p align="center">
-<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1955.PNG" width="230"  title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1959.PNG" width="230" title="GitHub Profiles">&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://github.com/vladyslav-ios/vladyslav-ios/blob/main/IMG_1957.PNG" width="230" title="GitHub Profiles">
 </p>
